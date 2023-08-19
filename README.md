@@ -16,7 +16,7 @@ Hey there! I'm Raj, a passionate security consultant with a solid 4-year track r
 📈 Collaborated with cross-functional teams to deliver actionable security recommendations.<br>
 📝 Authored detailed reports outlining vulnerabilities and recommended remediation strategies.<br>
 
-🏆 Certifications & Awards
+🏆 Certifications & Awards<br>
 📚 Certified Red Team Expert (CRTE)<br>
 📚 Certified Red Team Professional (CRTP)<br>
 📚 Azure Fundamentals – AZ900<br>
