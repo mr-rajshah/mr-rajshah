@@ -9,7 +9,7 @@ Hey there! I'm Raj, a passionate security consultant with a solid 4-year track r
 🔒 Network & Application Security
 🔐 Security Audits & Compliance
 
-🚀 Highlights
+🚀 Highlights<br>
 💼 Worked with diverse clients to identify and address security weaknesses.
 🔍 Proficient in conducting comprehensive penetration tests to simulate real-world attacks.
 📈 Collaborated with cross-functional teams to deliver actionable security recommendations.
