@@ -1,6 +1,6 @@
 🔐 Security Consultant | Penetration Tester | Ethical Hacker 🕶️
 
-🌐 About Me
+🌐 About Me<br>
 Hey there! I'm Raj, a passionate security consultant with a solid 4-year track record in the dynamic world of penetration testing. My journey in the cybersecurity realm has been driven by a relentless curiosity to uncover vulnerabilities and fortify digital landscapes.
 
 🔍 Expertise<br>
@@ -28,10 +28,10 @@ Hey there! I'm Raj, a passionate security consultant with a solid 4-year track r
 📖 Mumbai University<br>
   Bachelor of Computer Engineering<br>
 
-🌟 What Drives Me
+🌟 What Drives Me<br>
 I thrive on the challenge of staying ahead of emerging threats and outsmarting potential adversaries. My goal is to make the digital realm safer for everyone, one secure line of code at a time. When I'm not diving into lines of code, you can find me exploring the latest security trends or sharing my insights through blog posts and talks.
 
-📬 Let's Connect
-Feel free to reach out for discussions on cybersecurity, ethical hacking, or just to connect! You can find me on [LinkedIn](https://www.linkedin.com/in/imraj-shah/) or drop me an email at imrajshah97@gmail.com.
+📬 Let's Connect<br>
+Feel free to reach out for discussions on cybersecurity, ethical hacking, or just to connect! You can find me on [LinkedIn](https://www.linkedin.com/in/imraj-shah/) or drop me an email at imrajshah97@gmail.com.<br>
 
 🔑 Stay Secure, Stay Vigilant! 🛡️
