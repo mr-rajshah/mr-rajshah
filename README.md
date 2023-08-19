@@ -15,6 +15,7 @@ Hey there! I'm Raj, a passionate security consultant with a solid 4-year track r
 🔍 Proficient in conducting comprehensive penetration tests to simulate real-world attacks.<br>
 📈 Collaborated with cross-functional teams to deliver actionable security recommendations.<br>
 📝 Authored detailed reports outlining vulnerabilities and recommended remediation strategies.<br>
+📊 I was assigned the role of being a Buddy for the new employees, with the responsibility of mentoring and training the newcomers.<br>
 
 🏆 Certifications & Awards<br>
 📚 Certified Red Team Expert (CRTE)<br>
