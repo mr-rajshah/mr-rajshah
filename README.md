@@ -26,7 +26,7 @@ Hey there! I'm Raj, a passionate security consultant with a solid 4-year track r
 
 🎓 Education<br> 
 📖 Mumbai University<br>
-  Bachelor of Computer Engineering<br>
+  Bachelor of Computer Engineering, 2019<br>
 
 🌟 What Drives Me<br>
 I thrive on the challenge of staying ahead of emerging threats and outsmarting potential adversaries. My goal is to make the digital realm safer for everyone, one secure line of code at a time. When I'm not diving into lines of code, you can find me exploring the latest security trends or sharing my insights through blog posts and talks.
